@@ -35,7 +35,6 @@ int main() {
     }
 
     cout << endl;
-    cout << "Student Information: " << endl;
     student2.printDetails();
 
     return 0;
